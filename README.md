@@ -6,10 +6,10 @@ Mail me at aryanjn807@gmail.com  if you need the word file.
 # Screenshots : 
 
 <br>
-<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-resume/master/Sceenshots/Screenshot1.png"></p>
+<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-Resume/master/Screenshots/Screenshot1.png"></p>
 <br>
 
 
 <br>
-<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-resume/master/Sceenshots/Screenshot1.png"></p>
+<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-Resume/master/Screenshots/Screenshot2.png"></p>
 <br>
